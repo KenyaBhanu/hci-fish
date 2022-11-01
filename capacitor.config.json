@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "HCI-fish",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}

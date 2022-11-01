@@ -1,0 +1,8 @@
+{
+  "name": "HCI-fish",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "5115c728"
+}
